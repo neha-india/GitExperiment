@@ -1,3 +1,6 @@
 I am learning Git.
 
 This is second line.
+
+
+Adding the third line.
