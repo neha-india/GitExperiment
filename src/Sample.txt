@@ -1,7 +1,4 @@
 I am learning Git.
-
 This is second line.
-
-Adding Git Command.
 Adding the third line.
-LearnGit.
+Adding Git Command.
