@@ -1,0 +1,5 @@
+Initializing a Repository
+
+Before you can work with Git, you have to initialize a project repository, setting it up so that Git will
+ manage it. Open up your terminal, and in your project directory run the command git init . as shown in the 
+ screenshot below.

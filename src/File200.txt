@@ -3,3 +3,5 @@ Maths2
 Maths3
 Maths4
 Maths5
+add
+Subtract
