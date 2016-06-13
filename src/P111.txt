@@ -1,0 +1,3 @@
+Git and GitHub are two of the coolest technologies around for developers. Git, despite its complexity 
+nd rather terse beginnings, is the version control tool of choice for everyone from web designers to kernel 
+developers.ok
