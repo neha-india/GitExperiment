@@ -1,0 +1,4 @@
+The Project is based on git. this is important. The git branch command lets you
+create, list, rename, and delete branches.
+In Git, branches are a part of your everyday development process. When you want to add a new 
+feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes.
